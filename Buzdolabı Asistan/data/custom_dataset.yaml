@@ -1,0 +1,6 @@
+train: custom_dataset/train/
+val: custom_dataset/val/
+
+nc: 2  # number of classes
+names: ['icim_sut', 'sutas_ayran']  # class names
+
